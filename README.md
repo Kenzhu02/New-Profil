@@ -2,9 +2,6 @@
     WELCOME TO
 REPOSITORY KENZHU
 </h2>
-
-<p align="center">
-  <img src="https://telegra.ph/file/082bc623414ef9d6dccbc.jpg">
 <h2 align="center">
     ──「 CREDIT 」──
 </h2>
